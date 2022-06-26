@@ -1,0 +1,28 @@
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\TruYum Practice Check.exe
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\TruYum Practice Check.deps.json
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\TruYum Practice Check.runtimeconfig.json
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\TruYum Practice Check.dll
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\TruYum Practice Check.pdb
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.AssemblyInfo.cs
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\scopedcss\bundle\TruYum Practice Check.styles.css
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.csproj.CopyComplete
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.dll
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\refint\TruYum Practice Check.dll
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.pdb
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\TruYum Practice Check.genruntimeconfig.cache
+C:\Users\HP\Desktop\Project ABC\obj\Debug\net6.0\ref\TruYum Practice Check.dll
